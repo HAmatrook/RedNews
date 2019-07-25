@@ -1,7 +1,8 @@
 # RedNews
 Red News is free Android App that build using Java language. The App enable the user to stay
 up to date with latest news.
-Share and invite other people to the App.
+# Features
+- Share and invite other people to the App.
 - Ability to save the news in order to read it later.
 - View some recent news in  a widget.
 - Accessibility.
