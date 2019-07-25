@@ -6,5 +6,5 @@ Share and invite other people to the App.
 - View some recent news in  a widget.
 - Accessibility.
   - Providing content description for ImageViews and ImageButtons.
-  - add an attribute to the corresponding XML element within the activity's layout
+  - Add an attribute to the corresponding XML element within the activity's layout
     resource file for the static elements.
