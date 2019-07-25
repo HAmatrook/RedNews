@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RedNews</string>
+    <string name="source_name">Source Name:</string>
+    <string name="author">Author:</string>
+    <string name="publishing_date">Publishing Date:</string>
+
+
+    <string name="recent_news">Recent News</string>
+    <string name="favorite_news">Favorite News</string>
+
+    <string name="invitation_title">RedNews Invite</string>
+    <string name="invitation_message">Hello, this is an invite to install RedNews App</string>
+    <string name="invitation_deep_link">invitation_deep_link</string>
+    <string name="blank_image">Blank image</string>
+    <string name="article_image">Article image</string>
+    <string name="rednews_logo">RedNews logo</string>
+    <string name="share_button">Share button</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+
+</resources>
